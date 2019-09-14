@@ -1,0 +1,3 @@
+RENCANA RESOLUSI
+- Membuat Query Builder
+- Membuat Validate Class
