@@ -5,3 +5,4 @@ menambahkan login
 - CURL
 - Payment Gateway
 - Manambahkan Data
+- Menggunakan RDBMS
