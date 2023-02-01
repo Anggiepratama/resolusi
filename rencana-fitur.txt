@@ -1,0 +1,6 @@
+rencana fitur
+
+menambahkan login
+- API
+- CURL
+- Payment Gateway
