@@ -5,3 +5,6 @@ menambahkan login
 - CURL
 - Pindah Database
 - Dari sql ke no sql
+- Payment Gateway
+- Manambahkan Data
+- Menggunakan RDBMS
