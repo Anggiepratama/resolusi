@@ -3,4 +3,5 @@ rencana fitur
 menambahkan login
 - API
 - CURL
-- Payment Gateway
+- Pindah Database
+- Dari sql ke no sql
